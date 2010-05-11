@@ -1,0 +1,2 @@
+!SLIDE center bigger
+# Intermission
